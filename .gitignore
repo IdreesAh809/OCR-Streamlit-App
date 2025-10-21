@@ -39,6 +39,5 @@ $RECYCLE.BIN/
 data/
 helpers/__pycache__/
 streamlit_app.old.py
-*.txt
 *.csv
 *.pdf
