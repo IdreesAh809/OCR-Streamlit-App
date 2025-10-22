@@ -12,11 +12,7 @@ Streamlit application to extract text from images and PDFs using **Tesseract OCR
 ## Project Structure
 
 ```
-STREAMLIT-TE...
-│
-├─ .streamlit/
-├─ .vscode/
-├─ data/
+OCR-Streamlit-App
 ├─ helpers/
 │ ├─ constants.py
 │ ├─ easy_ocr.py
@@ -24,10 +20,10 @@ STREAMLIT-TE...
 │ ├─ pdfimage.py
 │ ├─ style.css
 │ └─ tesseract.py
+project_demo
 ├─ .gitignore
 ├─ README.md
 ├─ requirements.txt
-├─ streamlit_app.old.py
 └─ streamlit_app.py
 ```
 
