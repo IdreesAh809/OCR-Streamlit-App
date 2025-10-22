@@ -4,6 +4,11 @@ Streamlit application to extract text from images and PDFs using **Tesseract OCR
 
 ---
 
+## Streamlit Demo
+
+![App Screenshot](project_demo/streamlit%20demo.png)
+
+
 ## Project Structure
 
 ```
